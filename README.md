@@ -1,10 +1,7 @@
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?style=flat-square)](https://github.com/username/repo/actions)  [![License](https://img.shields.io/github/license/username/repo?style=flat-square)](LICENSE)  [![Stars](https://img.shields.io/github/stars/username/repo?style=flat-square)](https://github.com/username/repo/stargazers)
+# <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" alt="sunglasses blob" width="32" /> Hey! Nice to see you.
 
-<p align="center">
-  <img src="assets/hero.gif" alt="Demo animated" width="600"/>
-</p>
-
----
+Welcome to my page!  
+I'm **Febry**, Fullstack developer from **Palembang, Indonesia**, currently living in **Jakarta, Indonesia**.
 
 ## 📖 Overview
 
@@ -28,12 +25,16 @@ Dirancang untuk menjadi **ringan**, **mudah dikustom**, dan **scalable**.
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-v3.x-red?style=flat-square"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-v8.x-purple?style=flat-square"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-v5.x-black?style=flat-square"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-purple?style=flat-square"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-purple?style=flat-square"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-v24.x-blue?style=flat-square"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-v10.x-orange?style=flat-square"/>
+  <img alt="React" src="https://img.shields.io/badge/React-v18-blue?style=flat-square"/>
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-v5-lightgrey?style=flat-square"/>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GCP-v2025-blue?style=flat-square"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-v16-pink?style=flat-square"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-v6-green?style=flat-square"/>
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-v1.63-pink?style=flat-square"/>
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-v5-blue?style=flat-square"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-v2-red?style=flat-square"/>
 </p>
 
-
----
-
-## 📂 Struktur Repository
