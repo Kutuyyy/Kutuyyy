@@ -1,4 +1,4 @@
-# <img src="https://github.com/Kutuyyy/neoxr-bot/raw/main/assets/sunglasses-blob.gif" alt="sunglasses blob" width="32" /> Hey! Nice to see you.
+# 🤚 Hey! Nice to see you.
 
 Welcome to my page!  
 I'm **Febry**, Fullstack developer from **Palembang, Indonesia**, currently living in **Jakarta, Indonesia**.
