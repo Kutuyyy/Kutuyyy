@@ -8,7 +8,7 @@
 
 ## 📖 Overview
 
-**NamaProyekKamu** adalah sebuah aplikasi/CLI/library yang membantu **[target pengguna]** dalam **[tujuan utama proyek]** dengan cara **[solusi singkat]**.  
+**Tuys Corp** adalah sebuah aplikasi/CLI/library yang membantu **[Admin / Reseller / Buyers Tuys Store]** dalam **[Melakukan Maintenance/Pembelian/Pengecekan]** dengan cara **[Menggunakan Automation]**.  
 Dirancang untuk menjadi **ringan**, **mudah dikustom**, dan **scalable**.
 
 ### ✨ Fitur Utama
