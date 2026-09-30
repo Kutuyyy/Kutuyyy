@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Febry
+# 👋 Hey, I'm Kutuyy
 
-**Fullstack Developer** · Palembang 🇮🇩 → Jakarta
+**Fullstack Developer** · Palembang 🇮🇩 → Bandung
 
 Membangun tools yang ringan, otomatis, dan gampang dikustom.
 
