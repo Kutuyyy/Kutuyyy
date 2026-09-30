@@ -2,8 +2,6 @@
 
 # 👋 Hey, I'm Kutuyy
 
-**Fullstack Developer** · Palembang 🇮🇩 → Bandung
-
 Membangun tools yang ringan, otomatis, dan gampang dikustom.
 
 <a href="https://github.com/Kutuyyy"><img src="https://img.shields.io/github/followers/Kutuyyy?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers"/></a>
