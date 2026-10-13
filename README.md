@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Kutuyy
+# 👋 Hey, I'm Dimz
 
-Membangun tools yang ringan, otomatis, dan gampang dikustom.
+Membangun software yang ringan, otomatis, dan gampang dikustom — dari CLI tools sampai aplikasi kasir.
 
 <a href="https://github.com/Kutuyyy"><img src="https://img.shields.io/github/followers/Kutuyyy?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Kutuyyy&label=Profile%20Views&style=for-the-badge&color=blue" alt="views"/>
@@ -10,6 +10,14 @@ Membangun tools yang ringan, otomatis, dan gampang dikustom.
 </div>
 
 ---
+
+## 🔥 Lagi Dibangun
+
+| Project | Deskripsi |
+|---|---|
+| **KasTara** | Cloud POS buat UMKM — kasir, laporan, loyalty, notifikasi WA *(repo private)* |
+| **KasTara Android** | Aplikasi kasir Android (Capacitor + native Bluetooth printing) *(repo private)* |
+| **dimzmail** | Temp-email reader sebagai Telegram Mini App *(repo private)* |
 
 ## 📖 Tentang Tuys Corp
 
@@ -39,15 +47,19 @@ Dirancang agar **ringan**, **mudah dikustom**, dan **scalable**.
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/>
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 </p>
 
 **Frontend**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-  <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+</p>
+
+**Mobile**
+
+<p>
+  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white"/>
 </p>
 
 **Backend & Database**
@@ -64,9 +76,9 @@ Dirancang agar **ringan**, **mudah dikustom**, dan **scalable**.
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -79,11 +91,11 @@ Dirancang agar **ringan**, **mudah dikustom**, dan **scalable**.
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://github.com/Kutuyyy"><img src="https://img.shields.io/badge/GitHub-Kutuyyy-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://t.me/looksmern"><img src="https://img.shields.io/badge/Telegram-looksmern-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <sub>⭐ Kalau ada project yang berguna, boleh kasih star ya!</sub>
+  <sub>⭐ Kalo berguna jangan lupa star</sub>
 </div>
